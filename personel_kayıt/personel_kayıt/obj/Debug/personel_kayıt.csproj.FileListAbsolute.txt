@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Frmistatistik.resources
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.frmanaform.resources
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.frmgrafikler.resources
+C:\Users\Monster\source\repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.frmgiris.resources
